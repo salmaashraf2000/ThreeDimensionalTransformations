@@ -1,0 +1,6 @@
+E:\ThreeDimentionalTransformations\bin\Debug\ThreeDimentionalTransformations.exe.config
+E:\ThreeDimentionalTransformations\bin\Debug\ThreeDimentionalTransformations.exe
+E:\ThreeDimentionalTransformations\bin\Debug\ThreeDimentionalTransformations.pdb
+E:\ThreeDimentionalTransformations\obj\Debug\ThreeDimentionalTransformations.csprojAssemblyReference.cache
+E:\ThreeDimentionalTransformations\obj\Debug\ThreeDimentionalTransformations.exe
+E:\ThreeDimentionalTransformations\obj\Debug\ThreeDimentionalTransformations.pdb
